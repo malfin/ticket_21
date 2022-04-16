@@ -3,6 +3,10 @@ CLI
 
 Написать скрипт (Python). Который будет проверять число, введнное польователем на чётность
 
+use:
+    Linux: python3 step_02_cli.py <number>
+    Windows: python step_02_cli.py <number>
+
 """
 
 import argparse
